@@ -65,8 +65,6 @@ export function registerBlocks () {
 		row,
 		social,
 		map,
-		feature,
-		features,
 		mediaCard,
 	].forEach( ( block ) => {
 
